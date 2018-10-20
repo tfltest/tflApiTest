@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tfl.Client.Commandline", "Tfl.Client.Commandline\Tfl.Client.Commandline.csproj", "{17C2854F-F15C-40E3-97D5-FA542502F70F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tfl.Client.Commandline.UnitTests", "Tfl.Client.Commandline.UnitTests\Tfl.Client.Commandline.UnitTests.csproj", "{481425A8-757E-4C15-BF16-5850D15329FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AB0D86AF-0C39-49C1-98D5-3FF898FE47DE}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C2854F-F15C-40E3-97D5-FA542502F70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C2854F-F15C-40E3-97D5-FA542502F70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C2854F-F15C-40E3-97D5-FA542502F70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C2854F-F15C-40E3-97D5-FA542502F70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481425A8-757E-4C15-BF16-5850D15329FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481425A8-757E-4C15-BF16-5850D15329FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481425A8-757E-4C15-BF16-5850D15329FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481425A8-757E-4C15-BF16-5850D15329FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48C2AA33-9747-4502-92F7-65A94C276968}
+	EndGlobalSection
+EndGlobal
