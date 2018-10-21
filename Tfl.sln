@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tfl.Client.Commandline.IntegrationTests", "Tfl.Client.Commandline.IntegrationTests\Tfl.Client.Commandline.IntegrationTests.csproj", "{CDCE68C2-2F67-459A-AC3D-58DBDEFB5104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{481425A8-757E-4C15-BF16-5850D15329FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{481425A8-757E-4C15-BF16-5850D15329FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{481425A8-757E-4C15-BF16-5850D15329FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCE68C2-2F67-459A-AC3D-58DBDEFB5104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCE68C2-2F67-459A-AC3D-58DBDEFB5104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCE68C2-2F67-459A-AC3D-58DBDEFB5104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCE68C2-2F67-459A-AC3D-58DBDEFB5104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
