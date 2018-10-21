@@ -12,4 +12,4 @@
 # Run Client - Tfl.Client.Commandline
 1. Right click Tfl.Client.Commandline and select menu item "Set as Startup Project".
 2. Press F5 to run in debug mode.
-3. Press F5 + Control to run in release mode.
+3. Press Ctrl + F5 to run in release mode.
