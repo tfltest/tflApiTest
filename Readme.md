@@ -6,6 +6,9 @@
 # Run Unit tests - Tfl.Client.Commandline.UnitTests
 1. Click on Test menu item then Run -> All Tests or use short cut Ctrl+R,A
 
+# Run Unit tests - Tfl.Client.Commandline.IntegrationTests
+1. Click on Test menu item then Run -> All Tests or use short cut Ctrl+R,A
+
 # Run Client - Tfl.Client.Commandline
 1. Right click Tfl.Client.Commandline and select menu item "Set as Startup Project".
 2. Press F5 to run in debug mode.
